@@ -1,8 +1,8 @@
 # 前端面试题搜集
 ## 内容列表
-1. [基本问题](#base-questions)
-2. [HTML问题](#html)
-
+1. [基本问题](#基本问题)
+2. [HTML问题](#HTML)
+3. [CSS问题](#css)
 
 ## 开始
 ### 基本问题
@@ -22,3 +22,21 @@
 * 为什么要将CSS```<link>```放在```<head><head>```之间，JS```<script>```凡在```</body>```之前。
 * 你之前有没有用过HTML模板引擎？
 
+### css
+* 在css中```id```和```class```有什么区别？
+* CSS Normalize 和 CSS Reset 有什么区别，你会选择哪个？为什么？
+* 描述一下浮动及其原理。
+* 描述下```z-index```如何进行层叠。
+* 你最喜欢的图片代替技术是什么，什么情况下回应用它？
+* 解释下什么是```css精灵```,如何将它运用到站点上。
+* 解释下BFC(Block Formatting Context)，以及他如何运作。
+* 你是如何优化网页打印样式的？
+* ```* { box-sizing: border-box; }```的作用是什么？有什么优点？
+* 列出你记得的```display```属性的值。
+* 说说```inline``` 和 ```inline-block```有什么不同。
+* 说书position属性的relative、fixed、 absolute 和 statically有什么区别。 
+* 目前你用过哪些css框架到你的项目，你是如何改进它们的。
+* 响应式设计和自适应设计有什么不同？
+* 描述下伪类，讨论下它们的用处。
+* 你有没有用过栅格系统，如果用过的话，你喜欢那个？
+* 你有没有玩过Flexbox布局 or Grid 布局？
