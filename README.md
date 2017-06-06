@@ -41,10 +41,12 @@
 * 描述下伪类，讨论下它们的用处。
 * 你有没有用过栅格系统，如果用过的话，你喜欢那个？
 * 你有没有玩过Flexbox布局 or Grid 布局？
+* 你熟悉svg吗
 
 ### Javascript
 * 解释下js事件委托(事件代理)。
-* 解释下js中```this```的作用。
+* 解释下事件冒泡。
+* 解释下js中```this```的工作原理。
 * 解释下原型继承的原理。
 * 谈谈你对 ```AMD``` vs ```CommonJS```的理解
 * 编写函数使他运行：
@@ -59,3 +61,6 @@
 *  ```document.load```和```DOMContentLoaded```的区别？
 * 什么时候你会用```document.write()```？
 * 解释下JSONP的工作原理。
+* javascript 作为一门编程语言有什么优缺点？
+* 解释一下```function foo() {}```和```var foo = function() {}```的区别
+
