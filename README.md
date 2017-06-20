@@ -1,7 +1,7 @@
 # 前端面试题搜集
 ## 内容列表
 1. [基本题目](#基本问题)
-2. [HTML题目](#html) [答案](/answer/HTML.md)
+2. [HTML题目](#html) 
 3. [CSS题目](#css)
 4. [javascript题目](#javascript)
 
