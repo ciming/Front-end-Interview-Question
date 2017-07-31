@@ -4,6 +4,7 @@
 2. [HTML题目](#html) 
 3. [CSS题目](#css)
 4. [javascript题目](#javascript)
+5. [javascript题目](#其它)
 
 ## 开始
 ### 基本问题
@@ -13,7 +14,7 @@
 * 谈谈你喜欢的开发环境。
 
 ### HTML
-* ```doctype```的作用是什么？
+* 有几种```doctype```，它的作用是什么？
 * 说说怪异模式（Quirks mode）、接近标准模式（Almost standards mode）、以及标准模式（Standards mode）之间有什么不同
 * HTML和XHTML之间有什么不同
 * 如果页面使用 'application/xhtml+xml' 会有什么问题吗？
@@ -22,6 +23,8 @@
 * 描述一下```<script>```、```<script async>``` 和 ```<script defer>```之间的区别。
 * 为什么要将CSS```<link>```放在```<head><head>```之间，JS```<script>```凡在```</body>```之前。
 * 你之前有没有用过HTML模板引擎？
+* 移动端适配，rem+媒体查询、meta头设置。
+
 
 ### CSS
 * 在css中```id```和```class```有什么区别？
@@ -41,7 +44,7 @@
 * 描述下伪类，讨论下它们的用处。
 * 你有没有用过栅格系统，如果用过的话，你喜欢那个？
 * 你有没有玩过Flexbox布局 or Grid 布局？
-* 你熟悉svg吗
+* 你熟悉svg吗?
 
 ### Javascript
 * 解释下js事件委托(事件代理)。
@@ -57,10 +60,33 @@
 * 你使用什么工具和技术调试js代码？
 * 单页面如何做SEO?
 * ```==```和```===```有什么不同？
-* ```==```和```===```有什么不同？
 *  ```document.load```和```DOMContentLoaded```的区别？
 * 什么时候你会用```document.write()```？
 * 解释下JSONP的工作原理。
 * javascript 作为一门编程语言有什么优缺点？
 * 解释一下```function foo() {}```和```var foo = function() {}```的区别
+* 手动写继承类。
+* 手动写数组去重。
+* 如何遍历对象的属性。
+* new关键字的过程。
+* 判断遍历类型，如何判断变量是函数？
+* 如何判断一个变量是数组？
+* call和apply的作用，区别。
+* 手写jsop实现，发送和回调接受。
+* js实现css的:hover效果。
+* 解释事件代理，事件流模型。
+* 数据统计，比ajax更简单的方法。
+* 手写once函数，传入函数参数只执行一次（闭包）。
+* 手写debouce函数。
+
+
+### 其它
+* gulp-conect原理？
+* 为什么要跨域，跨域是什么，有哪些方法？
+* 是否了解viewport?
+* unicode,utf8,gbk编码的了解，乱码的解决。
+* 分域名请求图片的原因和好处。
+* css动画和js动画的区别。
+
+
 
